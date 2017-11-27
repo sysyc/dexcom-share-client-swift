@@ -33,7 +33,8 @@ private let dexcomApplicationId = "d89443d2-327c-4a6f-89e5-496bbb0317db"
 private let dexcomLoginPath = "/ShareWebServices/Services/General/LoginPublisherAccountByName"
 private let dexcomLatestGlucosePath = "/ShareWebServices/Services/Publisher/ReadPublisherLatestGlucoseValues"
 //private let dexcomServerUS = "https://share1.dexcom.com"
-private let dexcomServerUS = "https://nightscoutshareserver9bb4.azurewebsites.net/"
+private let dexcomServerUS = "https://nssd.azurewebsites.net"
+//private let dexcomServerUS = "https://nightscoutshareserver9bb4.azurewebsites.net/"
 private let dexcomServerNonUS = "https://shareous1.dexcom.com"
 private let maxReauthAttempts = 2
 
